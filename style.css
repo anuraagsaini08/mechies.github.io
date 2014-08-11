@@ -41,6 +41,15 @@ h4
 	margin-top:11px;
 	line-height:11px;
 }
+h5
+{
+	color: #181907;
+	font-size: 12px;
+	font-weight: bold;
+	margin-bottom: 12px;
+	margin-top:12px;
+	line-height:13px;
+}
 
 a 
 {
@@ -77,7 +86,7 @@ body
 {
 	background:url("images/bg_or.jpg")  top left ;
 	width:180px;
-	height:1600px;
+	height:1630px;
 	top:0px;
 	left:0;
 	position:absolute;
@@ -95,7 +104,15 @@ body
 {
 	position:absolute;
 	clear:left;
-	left:182px
+	left:182px;
+	top:5px;
+}
+#info
+{
+	position:relative;
+	clear:left;
+	left:0px;
+	top:0px;
 }
 #left
 {
